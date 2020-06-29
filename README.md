@@ -9,3 +9,8 @@ How to Edit Yourself
   2. Download <strong>app.json</strong> to your computer.
   3. Inside the Editor, click File -> Import.
   4. Import <strong>app.json</strong>
+
+
+Alternatively
+-------------
+You can download the entire repository (index.html, app.json, and the folder called js) and launch index.html from your computer.
